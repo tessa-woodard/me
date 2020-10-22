@@ -1,0 +1,22 @@
+{
+    "name": "portfolio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "npm run start",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tessa-woodard/portfolio.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tessa-woodard/portfolio/issues"
+    },
+    "homepage": "https://github.com/tessa-woodard/portfolio#readme"
+}
