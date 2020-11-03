@@ -67,5 +67,5 @@ p.para{
     background: #ffffff;
     box-shadow: var(--box-shadow);
     z-index: 999;
-    transition: background 1s ease;
+    transition: background 2s ease;
 }
