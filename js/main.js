@@ -1,7 +1,5 @@
 $(document).ready(function () {
 
-
-
     // sticky navigation 
 
     let nav_offset_top = $('.header_area').height() + 50
