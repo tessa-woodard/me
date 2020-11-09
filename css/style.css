@@ -151,7 +151,7 @@
 }
 
 .site-main > .projects-area .projects{
-    background: rgba(248, 252, 253, 0.973);
+    background: rgba(235, 245, 248, 0.973);
     padding: 4rem 0;
     width: 16rem;
     margin: 5rem .5rem;
@@ -159,7 +159,7 @@
 }
 
 .site-main > .mini-projects-area .projects{
-    background: rgba(248, 252, 253, 0.973);
+    background: rgba(235, 245, 248, 0.973);;
     padding: 4rem 0;
     width: 16rem;
     margin: 5rem .5rem;
