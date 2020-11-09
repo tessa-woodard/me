@@ -10,3 +10,7 @@
 * Bootstrap
 * JQuery
 * Formspree.io
+
+![Portfolio](./assets/landing.png)
+
+![](./assets/aboutme.png)
